@@ -71,3 +71,15 @@ Follow the commands below to clone this repository on your system
 [Click here](https://play.google.com/store/apps/details?id=com.ashish_nitm.explore) to go to the Live Demo 🔥 🔥
 
 ## Not able to find the app. Maybe it is still under review. Please check back after some time.
+
+## 🪶 Upcoming features
+
+* 🔔 Notification on likes, comments and Follow.
+
+* 💬 Chat.
+
+* 📽️ Add to Story.
+
+* 🌈 Filter for photos.
+
+* 👤Edit profile
