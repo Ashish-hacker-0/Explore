@@ -81,7 +81,7 @@ const RegisterScreen = ({navigation}) => {
                 otp:code,
                 email:input
               };
-              emailjs.send('service_9nxc0hs','template_m6pt8ht',templateParams,'raYEZs_GRJl_wI8eM')
+              emailjs.send('','',templateParams,'')
               .then(res=>{
                 dispatch(setCode(code))
                 dispatch(setEmail(input));
