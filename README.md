@@ -44,27 +44,26 @@ Follow the commands below to clone this repository on your system
 
 > Login Page
 
-<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434412/Phone_Screenshot_3_bwyiyr.png" width="500" />
+<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434412/Phone_Screenshot_3_bwyiyr.png" width="300" />
 
 > Home Page
 
-<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434412/Phone_Screenshot_2_wl47ka.png" width="500"/>
+<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434412/Phone_Screenshot_2_wl47ka.png" width="300"/>
 
 > Profile Page
 
-<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434412/Phone_Screenshot_6_voukdd.png" width="500"/>
+<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434412/Phone_Screenshot_6_voukdd.png" width="300"/>
 
 > Register page
-
-<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434414/Phone_Screenshot_7_fn0bin.png" width="500"/>
+<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434414/Phone_Screenshot_7_fn0bin.png" width="300"/>
 
 > Reels Page 
 
-<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434414/Phone_Screenshot_4_c83a0i.png" width="500"/>
+<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434414/Phone_Screenshot_4_c83a0i.png" width="300"/>
 
 > Feed Page 
 
-<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434415/Phone_Screenshot_5_cxg86c.png" width="500"/>
+<img src="https://res.cloudinary.com/dlpbuhp5r/image/upload/v1651434415/Phone_Screenshot_5_cxg86c.png" width="300"/>
 
 
 ### 👇 Live Demo - 
